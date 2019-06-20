@@ -1,1 +1,22 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: 'Calibri';
+}
 
+h1 {
+    font-family: 'Indie Flower', cursive;
+}
+h2 {
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#email {
+    max-width: 100px;
+}
